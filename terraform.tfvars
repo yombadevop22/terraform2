@@ -1,0 +1,5 @@
+region        = "us-east-1" 
+ami           = "ami-0ae8f15ae66fe8cda"
+key_name      = "webserverkey"
+instance_type = "t2.micro"
+name          = "devop-work"
